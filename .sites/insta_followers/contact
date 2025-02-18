@@ -1,0 +1,358 @@
+
+<!DOCTYPE html>
+<html lang="es-es" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <!-- ===============================================-->
+    <!--    Document Title-->
+    <!-- ===============================================-->
+    <title>Contáctanos | Soc-Promotion</title>
+    <meta name="description" content="¡Ponte en contacto con nosotros para llevar tu estrategia de marketing social al siguiente nivel! Ya sea que tengas preguntas, necesites asesoramiento personalizado o quieras explorar oportunidades de colaboración, nuestro equipo está aquí para ayudarte. Completa el formulario o envíanos un correo electrónico: ¡te responderemos rápidamente!" />
+
+
+    <!-- ===============================================-->
+    <!--    Favicons-->
+    <!-- ===============================================-->
+    <link rel="apple-touch-icon" sizes="512x512" href="https://es.soc-promotion.com/tmpl/assets/img/megaphone.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="https://es.soc-promotion.com/tmpl/assets/img/megaphone.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://es.soc-promotion.com/tmpl/favicon.ico">
+    <meta name="theme-color" content="#ffffff">
+
+
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Contáctanos | Soc-Promotion" />
+    <meta property="og:description" content="¡Ponte en contacto con nosotros para llevar tu estrategia de marketing social al siguiente nivel! Ya sea que tengas preguntas, necesites asesoramiento personalizado o quieras explorar oportunidades de colaboración, nuestro equipo está aquí para ayudarte. Completa el formulario o envíanos un correo electrónico: ¡te responderemos rápidamente!" />
+    <meta property="og:url" content="https://es.soc-promotion.com/contact" />
+    <meta property="og:image" content="https://es.soc-promotion.com/tmpl/assets/img/megaphone.png" />
+    <meta property="og:site_name" content="Soc-Promotion" />
+
+    
+
+
+    <!-- ===============================================-->
+    <!--    Stylesheets-->
+    <!-- ===============================================-->
+    <!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7cPoppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">-->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+    <link href="https://es.soc-promotion.com/tmpl/assets/css/theme.css" rel="stylesheet">
+    <link href="https://es.soc-promotion.com/tmpl/assets/css/sweetalert.css" rel="stylesheet" media="print" onload="this.media='all'">
+    <link href="https://es.soc-promotion.com/tmpl/assets/css/image-picker.css" rel="stylesheet" media="print" onload="this.media='all'">
+    <!--<link href="https://es.soc-promotion.com/tmpl/assets/css/font_awesome5.min.css" rel="stylesheet" media="print" onload="this.media='all'">-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/css/bootstrap-select.min.css">
+
+
+    <style>
+      .data-table td, .data-table th {
+        white-space: normal;
+      }
+
+      .grecaptcha-badge {
+          visibility: hidden !important;
+      }
+    </style>
+
+    <script>
+      g_url = "https://es.soc-promotion.com/";
+    </script>
+
+    <link rel="canonical" href="https://es.soc-promotion.com/contact"/>
+    <link rel="alternate" href="https://soc-promotion.com/contact" hreflang="en-us"/><link rel="alternate" href="https://es.soc-promotion.com/contact" hreflang="es-es"/><link rel="alternate" href="https://soc-promotion.com/contact" hreflang="x-default"/>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TM3QBJ7XJZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      
+    </script>
+
+    <!-- Clarity -->
+    <!--<script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "fiveem6xcl");
+    </script>-->
+
+    <!-- Matomo -->
+    <script>
+      var _paq = window._paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//stats.soc-promotion.com/matomo_matomo/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <!-- End Matomo Code -->
+
+
+  </head>
+
+
+  <body>
+
+
+    <!-- ===============================================-->
+    <!--    Main Content-->
+    <!-- ===============================================-->
+    <main class="main" id="top">
+
+
+      <div class="container">
+        <nav class="navbar navbar-vertical navbar-expand-xl navbar-light navbar-glass"><a class="navbar-brand text-left" href="https://es.soc-promotion.com/">
+            <div class="d-flex align-items-center py-3"><img class="mr-2" src="https://es.soc-promotion.com/tmpl/assets/img/megaphone.png" alt="Soc-Promotion" width="40" height="40" /><span class="text-sans-serif" style="font-size: 60%;">Soc<br>Promotion</span>
+            </div>
+          </a>
+          <div class="collapse navbar-collapse" id="navbarVerticalCollapse">
+            
+      <ul class="navbar-nav flex-column"></ul>
+<hr class="border-300 my-2" />
+<ul class="navbar-nav flex-column">
+            <li class="nav-item">
+                <a class="nav-link dropdown-indicator" data-toggle="collapse" role="button" href="#menu_0" aria-expanded="false" aria-controls="menu_0">
+                <div class="d-flex align-items-center">
+                    <span class="nav-link-icon"><span class="fas fa-gift"></span></span><span>Promoción gratuita</span>
+                </div>
+                </a>
+<ul class="nav collapse" id="menu_0" data-parent="#navbarVerticalCollapse">
+                    <li class="nav-item "><a class="nav-link" href="free-trial-instagram-views">Gratis Followers Instagram</a></li><li class="nav-item "><a class="nav-link" href="tiktok_followers">Gratis Followers Tiktok</a></li><li class="nav-item "><a class="nav-link" href="Facebook_followers">Gratis Followers Facebook</a></li>
+                </ul>
+         <li class="nav-item">
+                <a class="nav-link dropdown-indicator" data-toggle="collapse" role="button" href="#menu_2" aria-expanded="false" aria-controls="menu_2">
+                <div class="d-flex align-items-center">
+                    <span class="nav-link-icon"><span class="fab fa-instagram"></span></span><span>Instagram</span>
+                </div>
+                </a>
+                <ul class="nav collapse " id="menu_2" data-parent="#navbarVerticalCollapse">
+                    <li class="nav-item "><a class="nav-link" href="buy-instagram-followers">Comprar Instagram Followers</a></li>
+                </ul>
+            </li>
+        </ul><hr class="border-300 my-2"/><ul class="navbar-nav flex-column">
+        
+            <li class="nav-item">
+                <a class="nav-link dropdown-indicator" data-toggle="collapse" role="button" href="#menu_3" aria-expanded="false" aria-controls="menu_3">
+                <div class="d-flex align-items-center">
+                    <span class="nav-link-icon"><span class="fab fa-itunes"></span></span><span>TikTok</span>
+                </div>
+                </a>
+                <ul class="nav collapse " id="menu_3" data-parent="#navbarVerticalCollapse">
+                    <li class="nav-item "><a class="nav-link" href="buy-tiktok-followers">Comprar TikTok Followers</a></li>
+                </ul>
+            </li>
+           </ul><hr class="border-300 my-2"/><ul class="navbar-nav flex-column">
+            <li class="nav-item">
+                <a class="nav-link dropdown-indicator" data-toggle="collapse" role="button" href="#menu_4" aria-expanded="false" aria-controls="menu_4">
+                <div class="d-flex align-items-center">
+                    <span class="nav-link-icon"><span class="fab fa-facebook"></span></span><span>Facebook</span>
+                </div>
+                </a>
+                <ul class="nav collapse " id="menu_4" data-parent="#navbarVerticalCollapse">
+                    <li class="nav-item "><a class="nav-link" href="buy-facebook-followers">Comprar Facebook Followers</a></li>
+                </ul>
+            </li>
+
+        </ul><hr class="border-300 my-2"/><ul class="navbar-nav flex-column">
+            <li class="nav-item ">
+                <a class="nav-link active" href="contact">
+                    <div class="d-flex align-items-center">
+                        <span class="nav-link-icon"><span class="fas fa-comment-alt"></span></span><span>Contactos</span>
+                    </div>
+                </a>
+            </li>
+        </ul><hr class="border-300 my-2"/><ul class="navbar-nav flex-column"></ul>
+          </div>
+        </nav>
+        <div class="content">
+          <nav class="navbar navbar-light navbar-glass fs--1 font-weight-semi-bold row navbar-top sticky-kit navbar-expand">
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarVerticalCollapse" aria-controls="navbarVerticalCollapse" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span><span class="badge badge-warning" style="display: none;" id="warning_navigation"></span></button><a class="navbar-brand text-left ml-3" href="https://es.soc-promotion.com/">
+              <div class="d-flex align-items-center"><img class="mr-2" src="https://es.soc-promotion.com/tmpl/assets/img/megaphone.png" alt="Soc-Promotion" width="40" height="40" /><span class="text-sans-serif" style="font-size: 60%;">Soc<br>Promotion</span>
+              </div>
+            </a>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown1">
+
+              <ul class="navbar-nav align-items-center ml-auto">
+                <li class="nav-item">
+                    <p class="mb-0 mr-3 text-600"><a href="https://soc-promotion.com/contact" hreflang="en-us">en</a> es </p>
+                </li>
+                <li class="nav-item dropdown"><a class="nav-link px-0" id="navbarDropdownNotification" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" onclick="get_notify();"><span class="fas fa-bell fs-2" data-fa-transform="shrink-6"></span></a>
+                  <div class="dropdown-menu dropdown-menu-right dropdown-menu-card" aria-labelledby="navbarDropdownNotification">
+                    <div class="card card-notification shadow-none" style="max-width: 20rem" id="notify_block">
+                      
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-item dropdown"><a class="nav-link pr-0" id="navbarDropdownUser" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <div class="avatar avatar-xl">
+                      <img class="rounded-circle" src="https://es.soc-promotion.com/tmpl/assets/img/553.webp" alt="Profile" />
+                    </div>
+                  </a>
+                  <div class="dropdown-menu dropdown-menu-right py-0" aria-labelledby="navbarDropdownUser">
+                    
+        <div class="bg-white rounded-soft py-2">
+            <a class="dropdown-item font-weight-bold text-warning" href="#" onclick="modal_load('modal', 'https://es.soc-promotion.com/reg.php'); return false;"><span>Crear cuenta</span></a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#" onclick="modal_load('modal', 'https://es.soc-promotion.com/aut.php'); return false;">Iniciar sesión</a>
+        </div>
+    
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </nav>
+          
+          
+          
+        <div class="card">
+            <div class="card-header">
+              <h1 class="mb-0 fs-2">Contactos</h1>
+            </div>
+            <div class="card-body bg-light">
+                <p class="fs--1">
+                    Si tienes alguna pregunta o sugerencia para mejorar nuestro servicio, por favor escríbenos.<br>
+                    Si estás escribiendo sobre tu pedido, por favor proporciona su número.<br>
+                    <hr>
+                    <b>Formulario de contacto:</b>
+                    <form action="" onsubmit="send_form(this); return false;" method="post" enctype="multipart/form-data">
+                        <input type="hidden" name="form" value="1">
+                        <input type="hidden" name="csrf" value="RG00WTVqOjAxZjFjZDZjYzVmZTNlMGUzZDg5ZmEwMzA2ZmEyMGI5OjE3Mzk3NzgwMTc=">
+                        <div class="form-body">
+                            <div class="form-group" style="">
+                                <label>Email</label>
+                                <input type="email" name="email" class="form-control" value="" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label>Asunto de la solicitud</label>
+                                <input type="text" name="title" class="form-control" required>
+                            </div>
+                            
+                            <div class="form-group" style="">
+                                <label>Seleccionar pedidos para su solicitud</label>
+                                <select name="orders[]" multiple class="form-control" required>
+                                    <option disabled>No tienes pedidos pagados</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label>Texto de solicitud</label>
+                                <textarea class="form-control" rows="6" name="text" required></textarea>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary pull-right pt-2">Enviar</button>
+                    </form>
+
+                    <hr>
+                    <!--Correo de contacto: <a href="mailto:contact@soc-promotion.com">contact@soc-promotion.com</a><br>-->
+                    Intentaremos responderte lo antes posible.
+                </p>
+            </div>
+        </div>
+
+          
+          <footer>
+            <div class="row no-gutters justify-content-between fs--1 mt-4 mb-3">
+              <div class="col-12 col-sm-auto text-center">
+                <p class="mb-0 text-600">&copy; Soc-Promotion <span class="d-none d-sm-inline-block">| </span><br class="d-sm-none" /> 2019-2025</p>
+              </div>
+              <div class="col-12 col-sm-auto text-center">
+                <!--<a href="https://payop.com/" target="_blank"><img style="width: 280px;" src="https://es.soc-promotion.com/tmpl/payop_logo.png"></a>-->
+              </div>
+            </div>
+          </footer>
+        </div>
+      </div>
+    </main>
+    <!-- ===============================================-->
+    <!--    End of Main Content-->
+    <!-- ===============================================-->
+
+
+    <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content" id="modal_content">
+            
+          </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="modal_frame" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-light">
+                <h5 class="modal-title"></h5>
+                <button class="close" type="button" data-dismiss="modal" aria-label="Close"><span class="font-weight-light" aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+
+            </div>
+          </div>
+        </div>
+    </div>
+
+
+    <!-- ===============================================-->
+    <!--    JavaScripts-->
+    <!-- ===============================================-->
+    <!--<script src="https://es.soc-promotion.com/tmpl/assets/js/jquery.min.js"></script>-->
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+    <script src="https://es.soc-promotion.com/tmpl/assets/js/popper.min.js"></script>
+    <script src="https://es.soc-promotion.com/tmpl/assets/js/bootstrap.js"></script>
+    <!--<script src="https://es.soc-promotion.com/tmpl/assets/js/plugins.js"></script>-->
+    <script src="https://es.soc-promotion.com/tmpl/assets/js/sweetalert.js"></script>
+    <script src="https://es.soc-promotion.com/tmpl/assets/js/image-picker.js?v=1.01"></script>
+
+    <script src="https://es.soc-promotion.com/tmpl/add_script.js?v=0.7.8"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/js/bootstrap-select.min.js"></script>
+
+    <script>
+        $("select").selectpicker();
+    </script>
+
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "BreadcrumbList",
+                "name": "BreadcrumbList",
+                "itemListElement":
+                [{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/es.soc-promotion.com\/","name":"P\u00e1gina principal"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/es.soc-promotion.com\/contact","name":"Cont\u00e1ctanos | Soc-Promotion"}}]
+            }
+        </script>
+
+    
+
+    <!--<script src="https://www.google.com/recaptcha/api.js?render=6LcQj6AUAAAAAOdcutvFNbxtl6HlRY4_jAzhtb9p"></script>-->
+    <!--<script>
+      function check_captcha(action)
+      {
+        if (typeof grecaptcha != "undefined")
+        {
+          grecaptcha.execute('6LcQj6AUAAAAAOdcutvFNbxtl6HlRY4_jAzhtb9p', {action}).then(function(token) {
+            $.post("https://es.soc-promotion.com/google_recaptcha", {token});
+          });
+        }
+        return true;
+      }
+    </script>-->
+  </body>
+
+</html>
